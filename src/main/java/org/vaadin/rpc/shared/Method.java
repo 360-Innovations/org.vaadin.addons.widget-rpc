@@ -13,7 +13,6 @@
  *   See the License for the specific language governing permissions and
  *   limitations under the License.
  *   
- *   NOTICE: modified by Eric Belanger ebelanger@360-innovations.com
  */
 package org.vaadin.rpc.shared;
 
